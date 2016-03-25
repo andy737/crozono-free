@@ -6,8 +6,7 @@
 	CROZONO - 22.02.16.20.00.00 - www.crozono.com - info@crozono.com
 ----------------------------------------------------------------------------
 
-!!! The authors are not responsible for any misuse of the application.
-asdadasdasdad
+!!! The authors are not responsible for any misuse of the application !!!
 
 """
 
