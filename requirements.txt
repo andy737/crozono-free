@@ -1,0 +1,4 @@
+pexpect
+colorama
+git+https://github.com/pwaller/pyfiglet
+git+https://github.com/nicovillanueva/poormanslogging
